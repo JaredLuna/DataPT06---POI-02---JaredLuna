@@ -1,4 +1,4 @@
-![EjemploDeImagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCyPi0AHwcuCP-QJxrxq-f2Q%2Fabout&psig=AOvVaw3mTadfUNkIc1ol-MlyxIM0&ust=1708991506097000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDh9M7Xx4QDFQAAAAAdAAAAABAE)
+![EjemploDeImagen]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCyPi0AHwcuCP-QJxrxq-f2Q%2Fabout&psig=AOvVaw3mTadfUNkIc1ol-MlyxIM0&ust=1708991506097000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDh9M7Xx4QDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.soyhenry.com%2F&psig=AOvVaw3LbfJKyR73fqHE971t5dLM&ust=1708991670785000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCPzp3Yx4QDFQAAAAAdAAAAABAE))
 # DataPT06---POI-02---JaredLuna
 *Segundo proyecto individual de Henry, para la carrera de DataScience en PT Cohorte 06.*
 
