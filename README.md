@@ -15,9 +15,9 @@ Para la parte de la EDA primeramente se descargó el dataset con el que se empez
 
 Una vez que tuvimos identificadas nuestras hojas objetivo, se procedió a importarlas a dos archivos csv diferentes (uno para cada hoja). Estos archivos igualmente se encuentran en la carpeta de Datasets como:
 
-1._ HechosEDA
+- HechosEDA
 
-2._VictimasEDA
+- VictimasEDA
 
 Estos serán los archivos con los que se trabajaron en python para la EDA y la ETL.
 
@@ -39,3 +39,8 @@ Para esta parte es donde se nos propusieron 2 KPI's más uno extra propuesto por
 - Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
 
 - Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
+
+Estos dos KPI's serán generados a partir de varias métricas que se encuentran o se han generado en el proyecto. Como en PowerBi es imposible poner comentarios sobre el proyecto es necesario hacer un poco más detallada esta parte del ReadMe.
+
+![image](https://github.com/JaredLuna/DataPT06---POI-02---JaredLuna/assets/37918365/170d1a8f-7ac4-4752-a881-8f5d5b103e4f)
+
