@@ -44,3 +44,12 @@ Estos dos KPI's serán generados a partir de varias métricas que se encuentran 
 
 ### Importación de datos
 
+Como se mencionó en la parte de la ETL, se importaron los datos en formato parquet. Así que para PowerBi ya no hay problema para la lectura de los archivos, una vez importamos revisamos que estuvieran todos los datos bien importados, que no hayan valores nulos ni ningun problema con los tipos de datos. Una vez revisado este se procedio a hacer el dashboard como tal.
+
+### Páginas del dashboard
+
+Para la presentación de las páginas se optó por utilizar Power Point como ayuda para los fondos de nuestro dashboard. Para esto simplemente realizabas el arraste de elementos en una hoja de PowerPoint común y corriente, una vez todos los elementos posicionados y con colocados de la manera desaeada solo es cuestión de importar nuestro archivo en formato SVG, el cual es un formato que vectoriza la dispostiva para poder escalarla sin perder nada de calidad en la imagen.
+
+Estas dispositivas se encuentran en el folder de *"Resources"* ya transformadas al formato SVG. }
+
+Una vez listos los fondos de nuestro dashboard nos centramos en las métricas y los KPI's junto con el story telling de nuestro dashboard.
