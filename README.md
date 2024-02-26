@@ -16,6 +16,7 @@ Para la parte de la EDA primeramente se descargó el dataset con el que se empez
 Una vez que tuvimos identificadas nuestras hojas objetivo, se procedió a importarlas a dos archivos csv diferentes (uno para cada hoja). Estos archivos igualmente se encuentran en la carpeta de Datasets como:
 
 1._ HechosEDA
+
 2._VictimasEDA
 
 Estos serán los archivos con los que se trabajaron en python para la EDA y la ETL.
