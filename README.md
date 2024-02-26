@@ -25,3 +25,17 @@ Para el comienzo de la EDA primeramente se importaron los archivos CSV con los q
 
 Una vez que revisamos toda la información, apuntamos los datos pertienentes como comentarios de markdown, se procedió a la transformación de nuestros datos en la parte de la ETL.
 
+# ETL
+
+Para esta parte volvimos a tomar los datos que tenemos en el folder de Datasets para trabajar con ellos. De la misma manera dentro del jupyter notebook se encuentran comentarios más detallados de lo realizado en la transformación de los datos. Fue una transformación sencilla, ya que solamente nos encargamos de reemplazar valores vacios y separar fechas para tener un mejor control de tiempos. Realmente esta parte era opcional en el proyecto pero para tener un dataset más ordenado se realizó esta pequeña limpieza.
+
+Una vez terminada la trasnformación se guardaron los archivos en formato parquet, esto solo para tener unos archivos más livianos y trabajar con ellos en PoweerBi.
+
+
+# Dashboard en PowerBI
+
+Para esta parte es donde se nos propusieron 2 KPI's más uno extra propuesto por nosotros. Los dos KPI's son:
+
+- Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
+
+- Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
