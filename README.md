@@ -1,5 +1,5 @@
 # DataPT06---POI-02---JaredLuna
-*Segundo proyecto individual de Henry, para la carrera de DataScience en PT Cohorte 06. *
+*Segundo proyecto individual de Henry, para la carrera de DataScience en PT Cohorte 06.*
 
 Para este proyecto se nos plantea la siguiente problemática:
 
