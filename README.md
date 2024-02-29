@@ -69,3 +69,7 @@ Y para la cuarta planilla tenemos nuestro KPI propuesto el cual es:
 - Disminuir un 10% la cantidad de victimas mortales en horas pico dentro de la CABA.
 
 Para esto tenemos una gráfica, la cual podemos monitorear por periodos de años o un año en específico. La cual nos indica el top de victimas mortales por hora en la CABA dentro del periodo o año seleccionado. Con esto podemos visualizar nuestro top de victimas por hora y en que hora sucedió, para así tener un monitoreo de nuestra hora pico y tomar cartas en el asunto. En la esquina inferior izquierda tenemos una lista que nos indica por hora cuantas victimas y de que tipo de victima tenemos.
+
+## Conclusiones
+
+Para este proyecto por su naturaleza lo más complejo fue el darle un sentido a los datos, saber analizarlos, intepretarlos y finalmente sacar información valiosa de ellos y poderla expresar en un dashboard para una toma de decisiones. La utilización de github, python, excel y PowerBi, hizo una ampliación de conocimientos más enriquecedora y un entendimiento más profundo de lo que se trata este bootcamp. Fue interesante el trabajar con PowerBi, pero no es mi favorito, la teoría del color es lo más complicado en mi caso.
